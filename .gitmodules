@@ -34,3 +34,6 @@
 [submodule "src/Powercord/plugins/ShowConnections"]
 	path = src/Powercord/plugins/ShowConnections
 	url = https://github.com/E-boi/ShowConnections
+[submodule "src/Powercord/plugins/pc-stafftags"]
+	path = src/Powercord/plugins/pc-stafftags
+	url = https://github.com/Puyodead1/pc-stafftags
