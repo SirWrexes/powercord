@@ -37,3 +37,6 @@
 [submodule "src/Powercord/plugins/pc-stafftags"]
 	path = src/Powercord/plugins/pc-stafftags
 	url = https://github.com/Puyodead1/pc-stafftags
+[submodule "src/Powercord/plugins/permission-viewer"]
+	path = src/Powercord/plugins/permission-viewer
+	url = https://github.com/powercord-community/permission-viewer
