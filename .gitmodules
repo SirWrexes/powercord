@@ -31,3 +31,6 @@
 [submodule "src/Powercord/plugins/theme-toggler"]
 	path = src/Powercord/plugins/theme-toggler
 	url = git@github.com:redstonekasi/theme-toggler.git
+[submodule "src/Powercord/plugins/ShowConnections"]
+	path = src/Powercord/plugins/ShowConnections
+	url = https://github.com/E-boi/ShowConnections
