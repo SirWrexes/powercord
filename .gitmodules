@@ -1,0 +1,33 @@
+[submodule "src/Powercord/plugins/view-raw"]
+	path = src/Powercord/plugins/view-raw
+	url = https://github.com/Juby210/view-raw
+[submodule "src/Powercord/plugins/pronoundb-powercord"]
+	path = src/Powercord/plugins/pronoundb-powercord
+	url = https://github.com/cyyynthia/pronoundb-powercord
+[submodule "src/Powercord/plugins/user-details"]
+	path = src/Powercord/plugins/user-details
+	url = https://github.com/Juby210/user-details
+[submodule "src/Powercord/plugins/bdCompat"]
+	path = src/Powercord/plugins/bdCompat
+	url = https://github.com/Juby210/bdCompat
+[submodule "src/Powercord/plugins/better-settings"]
+	path = src/Powercord/plugins/better-settings
+	url = https://github.com/mr-miner1/better-settings
+[submodule "src/Powercord/plugins/better-threads"]
+	path = src/Powercord/plugins/better-threads
+	url = https://github.com/NurMarvin/better-threads
+[submodule "src/Powercord/plugins/vpc-shiki"]
+	path = src/Powercord/plugins/vpc-shiki
+	url = https://github.com/Vap0r1ze/vpc-shiki
+[submodule "src/Powercord/plugins/copy-std-msg-url"]
+	path = src/Powercord/plugins/copy-std-msg-url
+	url = https://github.com/Bri-ish/copy-std-msg-url
+[submodule "src/Powercord/plugins/copy-role-color"]
+	path = src/Powercord/plugins/copy-role-color
+	url = https://github.com/Antonio32A/copy-role-color/
+[submodule "src/Powercord/plugins/message-translate"]
+	path = src/Powercord/plugins/message-translate
+	url = https://github.com/cyyynthia/message-translate
+[submodule "src/Powercord/plugins/theme-toggler"]
+	path = src/Powercord/plugins/theme-toggler
+	url = git@github.com:redstonekasi/theme-toggler.git

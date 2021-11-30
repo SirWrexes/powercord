@@ -7,7 +7,7 @@ package-lock.json
 yarn.lock
 pnpm-lock.yaml
 
-src/Powercord/plugins/*
+#src/Powercord/plugins/*
 !src/Powercord/plugins/pc-*
 
 src/Powercord/coremods/react-devtools/ext
