@@ -40,3 +40,12 @@
 [submodule "src/Powercord/plugins/permission-viewer"]
 	path = src/Powercord/plugins/permission-viewer
 	url = https://github.com/powercord-community/permission-viewer
+[submodule "src/Powercord/themes/Friends-Grid"]
+	path = src/Powercord/themes/Friends-Grid
+	url = https://github.com/CreArts-Community/Friends-Grid
+[submodule "src/Powercord/themes/powercord-plugin-cards"]
+	path = src/Powercord/themes/powercord-plugin-cards
+	url = https://github.com/Davr1/powercord-plugin-cards
+[submodule "src/Powercord/themes/Tokyo-Night"]
+	path = src/Powercord/themes/Tokyo-Night
+	url = https://github.com/Dyzean/Tokyo-Night
