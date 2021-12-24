@@ -1,0 +1,3 @@
+.gitignore     merge=keep
+.gitmodules    merge=keep
+.gitattributes merge=keep
